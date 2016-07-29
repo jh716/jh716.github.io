@@ -3,10 +3,6 @@ html{
 }
 
 .nav{
-  font-family: 'Shift', sans-serif;
-  font-size: 16px;
-  text-transform: capitalize;
-  color: #FFFFFF;
   padding: 20px 20px 10px 20px;
 }
 
@@ -16,11 +12,15 @@ html{
 }
 
 .nav a {
+  font-family: 'Shift', sans-serif;
+  font-size: 16px;
+  text-transform: capitalize;
+  color: #FFFFFF;
 }
 
 
 .jumbotron {
-  background-image:url('https://static.pexels.com/photos/50632/pexels-photo-50632.jpeg');
+  background-image:url('https://static.pexels.com/photos/34632/pexels-photo.jpg');
   height: 700px;
   background-repeat: no-repeat;
   background-size: cover;
