@@ -3,21 +3,19 @@ html{
 }
 
 .nav{
-  background-color: #000000;
+  background-color: #F0FFFF;
   font-family: 'Shift', sans-serif;
   font-size: 16px;
-  color: #FFFFFF;
+  color: #191970;
   padding: 30px 30px 10px 30px;
 }
 
 .nav li {
   display: inline;
+  padding: 10px;
 }
 
 .nav a {
-  color: #F0F8FF;
-  font-weight: bold;
-  text-transform: uppercase;
 }
 
 
